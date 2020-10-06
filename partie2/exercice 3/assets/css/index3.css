@@ -1,0 +1,19 @@
+ 
+table {
+    width: 14%;
+    border: border ;
+    border: 1px solid black;
+  }
+
+  .gras 
+    {font-size: medium ;
+     font-weight: bold;
+      text-align:left;
+    }
+
+    th,td  {
+        border-style:solid;
+        border-collapse: collapse;
+        border-block-start-color: solid black;
+       text-align: center;
+      }
