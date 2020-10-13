@@ -1,14 +1,21 @@
-#div1{
-    background-color: rgb(114, 114, 241);
-    
+.space{
+    white-space: pre-line;
 }
-#div2 {
-    background-color:rgb(185, 23, 185);
-    
+.marge{
+    margin: 25px;
 }
-#div3 {
+input {
+    margin-bottom: 3px;
+}
+.space2{
+    margin-left: 15px;
+}
+.blue ,.blue legend{
+    background-color: blue;
+}
+.purple ,.purple legend{
+    background-color: purple;
+}
+.red ,.red legend{
     background-color: red;
-}
-#adr{
-    line-height: 4pc;
 }
